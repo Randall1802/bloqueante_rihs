@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante.js",
+  "version": "1.0.0",
+  "description": "prueba del modo bloqueante",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randall1802/bloqueante_rihs.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "Randy Ivan Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randall1802/bloqueante_rihs/issues"
+  },
+  "homepage": "https://github.com/Randall1802/bloqueante_rihs#readme"
+}
